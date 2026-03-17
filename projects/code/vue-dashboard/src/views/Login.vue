@@ -340,7 +340,7 @@ label { font-size: 13px; font-weight: 600; color: var(--text-secondary); }
 .input-wrapper:focus-within {
   border-color: var(--primary);
   background: rgba(108, 99, 255, 0.08);
-  box-shadow: 0 0 0 4px rgba(108, 99, 255, 0.15);
+  box-shadow: 0 0 0 4px rgba(108, 99, 255, 0.16);
 }
 .form-group.error .input-wrapper { border-color: var(--danger); }
 
