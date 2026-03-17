@@ -10,7 +10,7 @@
       <div class="login-left">
         <div class="brand">
           <div class="brand-icon">
-            <img src="https://sysinfra.in/img/mobile-logo.png" alt="Logoss" width="32" height="32" style="object-fit: contain;" />
+            <img src="https://sysinfra.in/img/mobile-logo.png" alt="Logo" width="32" height="32" style="object-fit: contain;" />
           </div>
           <span class="brand-name">System Infra Solutions</span>
         </div>
